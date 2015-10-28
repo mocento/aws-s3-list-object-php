@@ -1,6 +1,6 @@
 <?php
 /**
- * Mocento Analytics API (MA-API)
+ * Mocento AWS S3 Services.
  *
  * Amazon S3 PHP SDK.
  *
